@@ -1,0 +1,114 @@
+.page19-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .page19-page19 {
+    width: 430px;
+    height: 932px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0px 2px 12px 3px rgba(97, 184, 70, 1) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .page19-vector {
+    top: 47px;
+    left: 18px;
+    width: 15px;
+    height: 36px;
+    position: absolute;
+  }
+  .page19-ellipse4 {
+    top: 30px;
+    left: 47px;
+    width: 71px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(97, 184, 70, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .page19-text {
+    top: 38px;
+    left: 126px;
+    color: rgba(2, 79, 157, 1);
+    width: 139px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .page19-text2 {
+    top: 68px;
+    left: 126px;
+    color: rgba(97, 184, 70, 1);
+    width: 82px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .page19-rectangle64 {
+    top: 125px;
+    left: 0px;
+    width: 430px;
+    height: 3px;
+    position: absolute;
+  }
+  .page19-listalt-fill0wght400grad0opsz481 {
+    top: 42px;
+    left: 353px;
+    width: 48px;
+    height: 48px;
+    position: absolute;
+  }
+  .page19-rectangle74 {
+    top: 321px;
+    left: 43px;
+    width: 343px;
+    height: 37px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .page19-text4 {
+    top: 327px;
+    left: 63px;
+    color: rgba(189, 186, 186, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .page19-image24 {
+    top: 328px;
+    left: 340px;
+    width: 27px;
+    height: 27px;
+    opacity: 0.50;
+    position: absolute;
+  }
